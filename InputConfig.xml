@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <browserTypes>
+        <browser>Firefox</browser>
+    </browserTypes>
+    <implicitWait>10</implicitWait> <!-- Implicit wait time in seconds -->
+    <applicationURL>https://www.saucedemo.com/</applicationURL>
+    <excelSheetPath>E:/Hybrid-Framework/Sauce_demo_Library/configs/credentials.xlsx</excelSheetPath>
+</configuration>
